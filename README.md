@@ -50,9 +50,9 @@ installedapps.InstalledApplicationsAnalyzer()]
 
 ## Authors
 
-* **Patrício Domingues** - [GitHub](https://github.com/PatricioDomingues)
-* **Ruben Nogueira** - [GitHub](https://github.com/rubnogueira)
 * **José Francisco** - [GitHub](https://github.com/98jfran)
+* **Ruben Nogueira** - [GitHub](https://github.com/rubnogueira)
+* **Patrício Domingues** - [GitHub](https://github.com/PatricioDomingues)
 * **Miguel Frade** - [GitHub](https://github.com/mfrade)
 
 Project developed as final project for Computer Engineering course in Escola Superior de Tecnologia e Gestão de Leiria.
